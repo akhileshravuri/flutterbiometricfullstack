@@ -1,6 +1,3 @@
-[submodule "packages/biometric_auth"]
-	path = packages/biometric_auth
-	url = https://github.com/akhileshravuri/biometric_auth.git
-[submodule "biometric_auth"]
-	path = biometric_auth
+[submodule "authenticationpackage"]
+	path = authenticationpackage
 	url = https://github.com/akhileshravuri/authenticationpackage.git
