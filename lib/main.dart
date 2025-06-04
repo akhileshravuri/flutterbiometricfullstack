@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:biometric_auth/biometric_auth.dart';
+import 'package:authenticationpackage/biometric_auth.dart';
 
 void main() {
   runApp(const MyApp());
